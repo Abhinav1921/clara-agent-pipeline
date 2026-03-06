@@ -1,0 +1,26 @@
+{
+  "name": "Clara Agent Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "run-pipeline",
+        "options": {}
+      },
+      "id": "acb5b7c6-8157-4533-ba60-2402703fdb06",
+      "name": "Clara Agent Pipeline",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        300,
+        300
+      ]
+    }
+  ],
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": []
+}

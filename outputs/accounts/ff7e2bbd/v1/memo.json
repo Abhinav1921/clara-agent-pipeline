@@ -1,0 +1,30 @@
+{
+  "account_id": "ff7e2bbd",
+  "company_name": "",
+  "business_hours": {
+    "days": "",
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "",
+  "services_supported": [
+    "sprinkler services",
+    "fire alarm maintenance"
+  ],
+  "emergency_definition": [
+    "caller mentioned emergency scenario"
+  ],
+  "emergency_routing_rules": [],
+  "non_emergency_routing_rules": [],
+  "call_transfer_rules": {
+    "timeout_seconds": "",
+    "retry_attempts": "",
+    "fallback_action": ""
+  },
+  "integration_constraints": [],
+  "after_hours_flow_summary": "",
+  "office_hours_flow_summary": "",
+  "questions_or_unknowns": [],
+  "notes": ""
+}

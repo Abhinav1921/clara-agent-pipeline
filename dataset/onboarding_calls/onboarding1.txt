@@ -1,0 +1,9 @@
+Thanks for setting up the system.
+
+Our office operates Monday to Friday from 8 AM to 6 PM EST.
+
+Emergency calls include sprinkler leaks and fire alarm activation events.
+
+If an emergency occurs the call should immediately transfer to an on call technician.
+
+The transfer timeout should be 60 seconds before fallback instructions are provided.

@@ -1,0 +1,9 @@
+Hello, this is Lisa from Apex Fire Safety.
+
+Our services include sprinkler maintenance, fire alarm system repair, and safety inspections.
+
+Emergency situations usually involve sprinkler leaks or unexpected alarm activations.
+
+Routine calls include inspection scheduling and general service requests.
+
+We are exploring using an AI phone agent to help manage incoming calls and collect information from customers.

@@ -1,0 +1,9 @@
+We finalized the onboarding configuration.
+
+Our company operates Monday to Friday from 8 AM to 6 PM EST.
+
+Emergency calls include sprinkler leaks and fire alarm activations.
+
+Emergency calls should transfer directly to the emergency technician line.
+
+The call transfer timeout should be set to 60 seconds.

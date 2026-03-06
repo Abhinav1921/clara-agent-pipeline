@@ -1,0 +1,9 @@
+We confirmed the operating schedule for our company.
+
+Business hours are Monday to Friday from 8 AM until 6 PM EST.
+
+Emergency events include sprinkler leaks and fire alarm activations.
+
+Those calls should immediately attempt transfer to the on call technician.
+
+The transfer timeout should be set to 60 seconds.

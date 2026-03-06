@@ -1,0 +1,9 @@
+Hi this is David from Rapid Response Fire Protection.
+
+We provide sprinkler installation, fire alarm monitoring support, and emergency repair services.
+
+If a customer reports a sprinkler leak or active alarm system we treat that as an urgent call.
+
+Most other calls involve scheduling service appointments or requesting system inspections.
+
+We want the AI assistant to gather caller information before routing calls to our office.

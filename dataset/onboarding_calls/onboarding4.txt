@@ -1,0 +1,7 @@
+Our business hours are Monday through Friday from 8 AM to 6 PM EST.
+
+Emergency situations include sprinkler leaks and active fire alarm alerts.
+
+Emergency calls must be routed to the technician on call.
+
+If the call transfer does not succeed after 60 seconds the system should reassure the caller that support will respond quickly.

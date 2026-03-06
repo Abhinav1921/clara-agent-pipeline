@@ -1,0 +1,35 @@
+{
+  "business_hours": {
+    "old": {
+      "days": "",
+      "start": "",
+      "end": "",
+      "timezone": ""
+    },
+    "new": {
+      "days": "Mon-Fri",
+      "start": "08:00",
+      "end": "18:00",
+      "timezone": "EST"
+    }
+  },
+  "emergency_definition": {
+    "old": [
+      "caller mentioned emergency scenario"
+    ],
+    "new": [
+      "sprinkler leak",
+      "fire alarm activation"
+    ]
+  },
+  "call_transfer_rules": {
+    "old": {
+      "timeout_seconds": "",
+      "retry_attempts": "",
+      "fallback_action": ""
+    },
+    "new": {
+      "timeout_seconds": 60
+    }
+  }
+}

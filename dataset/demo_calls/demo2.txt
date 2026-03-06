@@ -1,0 +1,9 @@
+Hi, this is John from Guardian Fire Systems.
+
+Our company provides sprinkler system inspections, fire alarm installation, and emergency repair services.
+
+If a building reports a sprinkler leak or a fire alarm activation we treat it as an emergency.
+
+Otherwise most calls are routine maintenance requests or inspection bookings.
+
+We are interested in using an AI agent to help collect caller information before transferring to our dispatch team.
